@@ -1,4 +1,4 @@
-<img src="https://github.com/BiggaHD/Automated-Accountant/blob/master/stack.svg" height="450" width="600">
+<img src="https://github.com/BiggaHD/Redux_Boilerplate/blob/master/Redux_Boilerplate.png" height="800" width="600">
 
 # React-Redux Boilerplate
 
