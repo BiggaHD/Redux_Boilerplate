@@ -1,4 +1,4 @@
-![](http://https://github.com/BiggaHD/Redux_Boilerplate/Redux_Boilerplate.png)
+<img src="https://github.com/BiggaHD/Automated-Accountant/blob/master/stack.svg" height="450" width="600">
 
 # React-Redux Boilerplate
 
