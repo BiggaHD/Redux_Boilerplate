@@ -1,4 +1,4 @@
-<img src="https://github.com/BiggaHD/Redux_Boilerplate/blob/master/Redux_Boilerplate.png" height="1200" width="800">
+<img src="https://github.com/BiggaHD/Redux_Boilerplate/blob/master/Redux_Boilerplate.png" height="1200" width="1200">
 
 # React-Redux Boilerplate
 
